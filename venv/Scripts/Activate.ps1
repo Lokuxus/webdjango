@@ -27,7 +27,7 @@ function global:deactivate ([switch]$NonDestructive) {
 
 deactivate -nondestructive
 
-$env:VIRTUAL_ENV="C:\Users\3768210.UNIVALI\PycharmProjects\webdjango\venv"
+$env:VIRTUAL_ENV="C:\Users\lokux\Documents\Trabalhos Faculdade\Java\Trabalho_de_Interoperabilidade\webdjango\venv"
 
 if (! $env:VIRTUAL_ENV_DISABLE_PROMPT) {
     # Set the prompt to include the env name
